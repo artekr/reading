@@ -1,4 +1,3 @@
 # reading
 
-## Deep Learning
-- [ ] [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow,‎ Yoshua Bengio,‎ Aaron Courville
+This site records what I read/learn daily.
